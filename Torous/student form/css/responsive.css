@@ -1,0 +1,136 @@
+/*Responsive the title*/
+@media screen and (max-width: 1222px)
+{
+	.adform
+	{
+		font-size: 45px;
+	}
+
+}
+@media screen and (max-width: 1172px)
+{
+	.adform
+	{
+		font-size: 40px;
+	}
+
+}
+@media screen and (max-width: 1122px)
+{
+	.adform
+	{
+		font-size: 35px;
+	}
+
+}
+@media screen and (max-width: 1072px)
+{
+	.adform
+	{
+		font-size: 30px;
+	}
+
+}
+@media screen and (max-width: 1022px)
+{
+	.adform
+	{
+		font-size: 25px;
+	}
+}
+@media screen and (max-width: 991px)
+{
+	.logo1
+	{
+		width: 100px;
+		margin-left: 5%;
+	}
+	.logo2
+	{
+		width: 300px;
+	}
+	.adform
+	{
+		font-size: 30px;
+		position: absolute;
+	}
+	.form1
+	{
+		padding: 50px;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+}
+@media screen and (max-width: 767px)
+{
+	.adform
+	{
+		font-size: 25px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+}
+@media screen and (max-width: 767px)
+{
+	.adform
+	{
+		font-size: 25px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+}
+@media screen and (max-width: 712px)
+{
+	.form1 div
+	{
+		font-size: 20px;
+	}
+	.logo1
+	{
+		width: 80px;
+		margin-left: 5%;
+	}
+	.logo2
+	{
+		width: 250px;
+	}
+	.adform
+	{
+		font-size: 20px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+}
+@media screen and (max-width: 662px)
+{
+	.form1 div
+	{
+		font-size: 20px;
+	}
+	.adform
+	{
+		font-size: 15px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+}
+
+/*responsive the title ends*/
